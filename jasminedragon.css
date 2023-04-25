@@ -113,7 +113,7 @@ height: 300px;
 background-image: url(forJasmineTea.jpg);
 background-repeat: no-repeat; 
 background-size: cover; 
-background-position: center;
+background-position: 50% 60%;
 }
 #city {
 height: 300px; 
